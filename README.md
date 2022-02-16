@@ -1,2 +1,2 @@
-# front-end-knowledge-store
+# javascript basic knowledge
 一些前端基础知识积累...
